@@ -121,7 +121,7 @@ st.markdown("""
         margin-bottom: 12px;
     }
     .panel {
-        background: red;
+        background: grey;
         padding: 14px 16px;
         border-radius: 14px;
         border: 1px solid #e5e7eb;
