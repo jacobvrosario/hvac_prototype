@@ -121,7 +121,7 @@ st.markdown("""
         margin-bottom: 12px;
     }
     .panel {
-        background: grey;
+        background: white;
         padding: 14px 16px;
         border-radius: 14px;
         border: 1px solid #e5e7eb;
@@ -130,13 +130,13 @@ st.markdown("""
     }
     .small-label {
         font-size: 0.85rem;
-        color: #6b7280;
+        color: #000000;
         margin-bottom: 4px;
     }
     .big-value {
         font-size: 1.15rem;
         font-weight: 700;
-        color: #111827;
+        color: #000000;
     }
     .step-chip {
         display: inline-block;
